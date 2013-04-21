@@ -7,5 +7,5 @@ var telapi = require('telapi').client,
     sms.create('sms_messages', {
 	From : '+16788046693',
 	To   : '+40741699975',
-        Body : 'Test de SMS curvooooooooo'
+        Body : 'Alerta Intrus! http://navigheaza.ro/rpi/20130420/01-222002-00.jpg http://cacat/srl/?stream=sloboz Daca nu este false alarm suna la 911 !!'
     });
